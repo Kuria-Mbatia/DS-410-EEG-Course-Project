@@ -1,0 +1,4 @@
+Test Name,Rows Processed,Runtime (s),Throughput (rows/s)
+Distributed Inference,17089,2.5583,6679.8264
+Distributed Aggregation,1,0.7285,1.3727
+Repartition Stress Test,17089,3.0548,5594.1469
