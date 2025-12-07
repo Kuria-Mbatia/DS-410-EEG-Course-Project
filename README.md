@@ -429,9 +429,18 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Authors
 
-- [Team Members] - Initial work and implementation
-- Course: DS/CMPSC 410 - Fall 2025
-- Institution: Penn State University - ICDS
+**Team Name:** EEG Analysis
+
+**Team Members:**
+- Krish Chavan - Initial work and implementation
+- Ryan Hussey - Initial work and implementation  
+- Xu Wang - Initial work and implementation
+- Hamid Shah - Initial work and implementation
+- Kuria Mbatia - Initial work and implementation
+- Nathan Mannings - Initial work and implementation
+
+**Course:** DS/CMPSC 410 - Fall 2025  
+**Institution:** Penn State University - ICDS
 
 ## Acknowledgments
 
